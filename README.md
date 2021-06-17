@@ -1,0 +1,2 @@
+# DailyAlgorithm
+Practice every day!
